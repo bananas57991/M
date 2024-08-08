@@ -2,3 +2,4 @@ pyautogui
 opencv2
 pyttsx3
 speechrecognition
+requests
